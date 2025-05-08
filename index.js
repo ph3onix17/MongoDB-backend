@@ -20,7 +20,7 @@ app.post('/',
         console.log(req.body.name);
         res.json(
             {
-                name: 'tung tung tung tung sahur',
+                name: 'tung tung tung  sahur',
             }
         )
         console.log("this is a GET request!");
